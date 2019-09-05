@@ -1,0 +1,14 @@
+﻿<!DOCTYPE>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title> Formation Git</title>
+	</head>
+	<body>
+		<ul>
+			<li>Tokyo</li>
+			<li>Singapour</li>
+		</ul>
+	</body>
+
+</html>
